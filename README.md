@@ -1,2 +1,2 @@
-# Telecom churn prediction using ML models 
-The objective of this project is to create Machine Learning models that can predict whether a customer is likely to leave the Telecom service or not
+# Enhancing Telecom Customer Retention through Advanced Machine Learning Models
+This project revolves around leveraging Machine Learning models to analyze and predict customer churn within a telecommunications company, specifically utilizing customer data obtained from the IBM forum. The primary goal is to develop robust predictive models capable of determining whether a customer is inclined to discontinue their telecom services. By harnessing the power of data-driven insights, the project aims to empower the telecommunication company with actionable foresight to proactively address customer attrition and enhance overall customer retention strategies.
